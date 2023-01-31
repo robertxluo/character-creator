@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+.link {
+  color: white;
+}
+
+.link:hover {
+  text-decoration: none;
+}
